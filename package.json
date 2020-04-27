@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "typeface-lobster": "0.0.72",
+    "typeface-open-sans": "0.0.75",
+    "typeface-ubuntu": "0.0.65"
   },
   "scripts": {
     "start": "react-scripts start",
