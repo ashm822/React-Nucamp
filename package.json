@@ -11,9 +11,12 @@
     "font-awesome": "^4.7.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "^5.0.7",
+    "react-redux-form": "^1.16.8",
     "react-router-dom": "^4.2.2",
     "react-scripts": "3.4.1",
     "reactstrap": "^8.4.1",
+    "redux": "^3.7.2",
     "typeface-lobster": "0.0.72",
     "typeface-open-sans": "0.0.75",
     "typeface-ubuntu": "0.0.65"
