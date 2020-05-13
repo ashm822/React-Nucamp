@@ -17,6 +17,8 @@
     "react-scripts": "3.4.1",
     "reactstrap": "^8.4.1",
     "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
     "typeface-lobster": "0.0.72",
     "typeface-open-sans": "0.0.75",
     "typeface-ubuntu": "0.0.65"
